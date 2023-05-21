@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MySqlConnection": "datasource= db-mysql-nyc3-61603-do-user-7751316-0.b.db.ondigitalocean.com; port=25060; username=doadmin; password=no4kovkej80yerh9"
+  }
+}
